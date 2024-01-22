@@ -1,0 +1,2 @@
+class Loss_CategoricalCrossentrophy:
+  
